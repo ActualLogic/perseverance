@@ -23,7 +23,7 @@ email: support@actuallogic.com
 description: >- # this means to ignore newlines until "baseurl:"
   A wiki page designed around the topic of perseverance and how it can
   be applied to your daily life to help you achieve your goals and be successful.
-baseurl: "perseverance.wiki" # the subpath of your site, e.g. /blog
+baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "https://perseverance.wiki" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ActualLogicInc
 github_username:  ActualLogic
