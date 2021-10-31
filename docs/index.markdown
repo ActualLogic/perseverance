@@ -25,4 +25,5 @@ Perseverance is not be able to be applied to all areas of your life given the am
 ## Choosing what to preserve
 Great news! You can choose anything to preserve. Bad news, you only have a limited supply. 
 
-[About Us](/about)
+## [About Us](/about)
+Checkout our About Us page to find out more around our motivation for creating this wiki.
